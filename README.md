@@ -1,4 +1,4 @@
-# devman_chat-bot-01
+# exchange_bot
 
 ## Prestart config
 - Для вывода логов в `systemd` необходим пакет `python3-systemd`. Установка командой:  
